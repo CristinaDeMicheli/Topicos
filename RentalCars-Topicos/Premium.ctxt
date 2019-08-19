@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Premium
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Premium\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_DniSocio\ p_nombre\ p_matricula
+comment1.target=Premium(int,\ java.lang.String,\ int)
+comment2.params=p_DniSocio\ p_matricula
+comment2.target=Premium(int,\ int)
+comment3.params=p_matricula
+comment3.target=void\ setMatricula(int)
+comment4.params=
+comment4.target=int\ getMatricula()
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment6.params=
+comment6.target=boolean\ puedePedir()
+numComments=7

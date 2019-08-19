@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Universitario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Universitario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_DniSocio\ p_nombre\ p_carrera
+comment1.target=Universitario(int,\ java.lang.String,\ java.lang.String)
+comment2.params=p_DniSocio\ p_carrera
+comment2.target=Universitario(int,\ java.lang.String)
+comment3.params=p_carrera
+comment3.target=void\ setCarrera(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCarrera()
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment6.params=
+comment6.target=boolean\ puedePedir()
+numComments=7

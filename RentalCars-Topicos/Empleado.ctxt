@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Empleado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Empleado\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_DniSocio\ p_nombre\ p_puesto
+comment1.target=Empleado(int,\ java.lang.String,\ java.lang.String)
+comment2.params=p_DniSocio\ p_puesto
+comment2.target=Empleado(int,\ java.lang.String)
+comment3.params=p_puesto
+comment3.target=void\ setPuesto(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPuesto()
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment6.params=
+comment6.target=boolean\ puedePedir()
+numComments=7

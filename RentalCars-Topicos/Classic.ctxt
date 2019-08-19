@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Classic
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Classic\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_DniSocio\ p_nombre\ p_codigoAlfabetico
+comment1.target=Classic(int,\ java.lang.String,\ java.lang.String)
+comment2.params=p_DniSocio\ p_codigoAlfabetico
+comment2.target=Classic(int,\ java.lang.String)
+comment3.params=p_codigoAlfabetico
+comment3.target=void\ setCodigoAlfabetico(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCodigoAlfabetico()
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment6.params=
+comment6.target=boolean\ puedePedir()
+numComments=7

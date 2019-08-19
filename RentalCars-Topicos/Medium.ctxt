@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Medium
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Medium\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_DniSocio\ p_nombre\ p_serial
+comment1.target=Medium(int,\ java.lang.String,\ int)
+comment2.params=p_DniSocio\ p_serial
+comment2.target=Medium(int,\ int)
+comment3.params=p_serial
+comment3.target=void\ setSerial(int)
+comment4.params=
+comment4.target=int\ getSerial()
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment6.params=
+comment6.target=boolean\ puedePedir()
+numComments=7
